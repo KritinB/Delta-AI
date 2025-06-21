@@ -1,4 +1,10 @@
 # Task completed:
+- brainstrom project
+    - stock predictor
+    - input:
+    
+    - output:
+
 
 
 # Tasks Ongoing:
@@ -8,5 +14,5 @@
 
 
 # Next Steps:
-
+- current solution: stock pred
 
